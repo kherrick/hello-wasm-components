@@ -7,7 +7,7 @@ edition = "2024"
 crate-type = ["cdylib"]
 
 [dependencies]
-wit-bindgen-guest-rust = "0.3.0"
+wit-bindgen = "0.44.0"
 wasi = "0.14.2"
 
 [package.metadata.component]
